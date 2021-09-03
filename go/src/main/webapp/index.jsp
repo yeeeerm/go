@@ -16,7 +16,8 @@
 	<pre>
 	
 	https://github.com/yeeeerm/go.git
-	fkkfkfkf
+	fkkfkfkfkkkk
+	
 	##1. 회원가입
 	##2. 이클립스에서 연동
 		1) [window-show view -other] - [git repositories]
